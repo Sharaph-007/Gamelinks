@@ -1,0 +1,93 @@
+{
+  "updatedAt": "2026-01-02",
+  "games": [
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Boss",
+      "thumbnailUrl": "https://flappybird.io/images/og.jpg",
+      "gameUrl": "https://flappybird.io/",
+      "category": "Arcade",
+      "plays": 2500000,
+      "isNew": false,
+      "isFeatured": true,
+      "addedAt": "2025-12-01T10:00:00Z"
+    },
+    {
+      "id": "2048",
+      "title": "2025",
+      "thumbnailUrl": "https://play2048.co/og-image.png",
+      "gameUrl": "https://play2048.co/",
+      "category": "Puzzle",
+      "plays": 1800000,
+      "isNew": false,
+      "isFeatured": false,
+      "addedAt": "2025-11-15T10:00:00Z"
+    },
+    {
+      "id": "pacman",
+      "title": "Pac-munde",
+      "thumbnailUrl": "https://www.google.com/logos/2010/pacman10-i.png",
+      "gameUrl": "https://www.google.com/doodles/30th-anniversary-of-pac-man",
+      "category": "Arcade",
+      "plays": 3200000,
+      "isNew": false,
+      "isFeatured": false,
+      "addedAt": "2025-10-20T10:00:00Z"
+    },
+    {
+      "id": "tetris",
+      "title": "TeMundetris",
+      "thumbnailUrl": "https://tetris.com/images/social-og.jpg",
+      "gameUrl": "https://tetris.com/play-tetris",
+      "category": "Puzzle",
+      "plays": 2100000,
+      "isNew": true,
+      "isFeatured": false,
+      "addedAt": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "slope",
+      "title": "avnaman",
+      "thumbnailUrl": "https://slope-ball.github.io/slope/slope.png",
+      "gameUrl": "https://slope-ball.github.io/slope/",
+      "category": "Racing",
+      "plays": 890000,
+      "isNew": true,
+      "isFeatured": false,
+      "addedAt": "2026-01-02T08:00:00Z"
+    },
+    {
+      "id": "subway-surfers",
+      "title": "jalagar Surfers",
+      "thumbnailUrl": "https://poki.com/images/subway-surfers.png",
+      "gameUrl": "https://poki.com/en/g/subway-surfers",
+      "category": "Action",
+      "plays": 4500000,
+      "isNew": true,
+      "isFeatured": false,
+      "addedAt": "2025-12-28T10:00:00Z"
+    },
+    {
+      "id": "crossy-road",
+      "title": "jalagar Road",
+      "thumbnailUrl": "https://poki.com/images/crossy-road.png",
+      "gameUrl": "https://poki.com/en/g/crossy-road",
+      "category": "Casual",
+      "plays": 1200000,
+      "isNew": true,
+      "isFeatured": false,
+      "addedAt": "2025-12-30T10:00:00Z"
+    },
+    {
+      "id": "basketball-stars",
+      "title": "Jalagara",
+      "thumbnailUrl": "https://poki.com/images/basketball-stars.png",
+      "gameUrl": "https://poki.com/en/g/basketball-stars",
+      "category": "Sports",
+      "plays": 650000,
+      "isNew": false,
+      "isFeatured": false,
+      "addedAt": "2025-11-01T10:00:00Z"
+    }
+  ]
+}
