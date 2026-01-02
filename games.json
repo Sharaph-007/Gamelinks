@@ -9,7 +9,7 @@
       "category": "JALAGARA",
       "plays": 25000,
       "isNew": true,
-      "isFeatured": true,
+      "isFeatured": false,
       "addedAt": "2025-12-01T10:00:00Z"
     }
   ]
