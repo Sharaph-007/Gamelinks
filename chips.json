@@ -9,11 +9,18 @@
       "action": "scroll_to_games"
     },
     {
-      "id": "youtube",
-      "label": "YouTube",
+      "id": "TOOLS",
+      "label": "Reel downloader",
       "icon": "play_circle_outline",
       "iconColor": "#FF0000",
-      "url": "https://youtube.com"
+      "url": "https://fastvideosave.net/"
+    },
+    {
+      "id": "TOOLS",
+      "label": "Reel downloader",
+      "icon": "play_circle_outline",
+      "iconColor": "#FF0020",
+      "url": "https://youtube.com/"
     }
   ]
 }
