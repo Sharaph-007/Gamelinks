@@ -2,14 +2,25 @@
   "updatedAt": "2026-01-02",
   "games": [
     {
-      "id": "flappy-bird",
+      "id": "flappy-boss",
       "title": "Flappy Boss",
       "thumbnailUrl": "https://flappybird.io/images/og.jpg",
       "gameUrl": "https://earnest-zabaione-4d0288.netlify.app/",
       "category": "JALAGARA",
-      "plays": 25000,
-      "isNew": true,
+      "plays": 250,
+      "isNew": false,
       "isFeatured": false,
+      "addedAt": "2025-12-01T10:00:00Z"
+    }, 
+    {
+      "id": "snake_gara",
+      "title": "Aquaman",
+      "thumbnailUrl": "https://flappybird.io/images/og.jpg",
+      "gameUrl": "https://luminous-speculoos-6d512f.netlify.app/",
+      "category": "JALAGARA",
+      "plays": 11,
+      "isNew": false,
+      "isFeatured": true,
       "addedAt": "2025-12-01T10:00:00Z"
     }
   ]
